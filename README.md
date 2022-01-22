@@ -1,29 +1,30 @@
-## AlpacaApi
+## Rundoo Test
 
-API endpoints for Eversend stock to integrate with external applications.
+API endpoints for Rundoo test
 
 #### Dependencies
 
-To use this repository, you need to have [node.js](https://nodejs.org), [npm](https://npmjs.org) or [yarn](https://yarnpkg.com), and mongo db installed (https://docs.mongodb.com/manual/installation/)
+To use this repository, you need to have [node.js](https://nodejs.org), [npm](https://npmjs.org) or [yarn](https://yarnpkg.com), and mongo db installed (https://docs.mongodb.com/manual/installation/) for these i used external mlab mongo db
 
 #### Installation
 
 1.  Clone the repository.
 
 ```
-git clone git@github.com:eversend/eversend-stock-trading-api.git.
+git clone git@github.com:satowind/rundooTest.git
 ```
 
 2.  Change into the src directory
 
 ```
-cd eversend-stock-trading-api
+cd rundooTest
+
 ```
 
 3.  Install the dependencies
 
 ```
-npm install
+npm install or npm i
 ```
 
 ### Development
@@ -32,18 +33,6 @@ npm install
 
 ```
 npm run start
-```
-
-3. Run tests script
-
-```
-npm run test
-```
-
-3. Run tests with coverage
-
-```
-npm run test:coverage
 ```
 
 #### Authors
