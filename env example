@@ -1,0 +1,36 @@
+
+#App Info
+APPNAME=""
+PORT=""
+
+#Alpaca Info
+apiUrl=""
+apiUrl2=""
+apiKeyId=""
+apiSecretKey=""
+authorization=""
+
+#Token App Authorization
+SECRET=""
+app=""
+version=""
+
+#DB connection
+DBUSERNAME=""
+DBPASSWORD=""
+DBURL=""
+DBPORT=""
+DBNAME=""
+
+#Eversend Account Info
+EversendAccountID=""
+
+#DB Event ID
+EventId=""
+
+#Callback base Url for informing on events
+callBack=""
+
+#Google Cloud Bucket
+projectID=""
+bucketName=""

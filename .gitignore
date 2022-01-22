@@ -1,0 +1,12 @@
+node_modules/
+py/
+yarn-error.log
+yarn.lock
+.env
+build/
+.DS_Store
+eventLogs/
+uncaughtExceptions.log
+logfile.log
+config/cloud.json
+files/
